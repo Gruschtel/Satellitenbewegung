@@ -25,6 +25,8 @@
    * [Add new SpaceObjects](#add-new-spaceobjects)
       * [New Satellite](#new-satellite)
       * [New Planet](#new-planet)
+* [Materials](#materials)
+* [Perspective](#perspective)
 * [Versioning](#versioning)
 * [Authors](#authors)
 
@@ -160,10 +162,29 @@ Sollen nun Satelliten um diesen Planeten (Objekt Planet) rotieren, muss darauf g
 
 <img src="https://user-images.githubusercontent.com/24352711/61187361-d4e77f80-a670-11e9-9845-052648e2383d.png" alt="Planet erstellen - Step 1" width="43%"/>  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; <img src="https://user-images.githubusercontent.com/24352711/61187183-edef3100-a66e-11e9-842c-c7dc994804da.png" alt="Planet erstellen - Step 2" width="45%"/><br>Abbildung 16 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Abbildung 17
 
+## Materials
+* Planets: https://www.solarsystemscope.com/textures/
+* Satelliten: https://free3d.com/de/
+* Startraum: Asset - Nature Starter Kit 2 
+
+## Perspective
+Folgende Komponenten oder Funktionen könnten in künftigen Projekten umgesetzt oder ergänzt werden:
+* Monde einfügen
+* Planetarium (Sternbilder als Polygonzüge)
+* (Ingame) Satelitten können durch den Nutzer beinflusst werden (Flugbahn, Entfernung, Größe, Anzahl pro Umlaufbahn, ...)
+* (Ingame) Hinzufügen von Umlaufbahnen durch den Nutzer
+* Kollisionsermittler
+* Weltraumeinflüsse (auf Satelliten), z.B.: Meteroitenschauer, Sonnenstürme, Gravitation andere Weltraumobjekte, ...
+* Mehr Realismus (Skalierung, Saturnringe, etc.)
+* Anheften an einen Satelliten oder Planeten
+* Raumstation anstatt Pavilion
+* Spieler trägt einen Raumanzug (Controller mit Händen, Helm mit visuellen Informationen beispielsweise Menü, ...)
+* Spieler befindet sich in einem kleinen Raumschiff
+* Startraum gestaltet als ISS-Raumstation, Raumschiff Enterprise, ...
+* Animation von Start und Landung (Verbindung aller Räume in einer Szene)
+
 ## Versioning
 * 1.0: Veröffentlichung
 ## Authors
    Alea Ilona Sauer – [GitHub Profil](https://github.com/saalea)<br/>
    Eric Gustav Werner – [GitHub Profil](https://github.com/Gruschtel)
-
-
