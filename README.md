@@ -1,7 +1,7 @@
 <!-- Markdown link & img dfn's -->
 [unity-image]: https://img.shields.io/badge/Unity-2018.3.14f-ff8a1c.svg
 [unity-url]: https://unity.com/de
-[version-image]: https://img.shields.io/badge/Version-1.0-blue.svg
+[version-image]: https://img.shields.io/badge/Version-1.1-blue.svg
 [vive-image]: https://img.shields.io/badge/VIVE%20Input%20Utility-1.10.4-ff8a1c.svg
 [vive-url]: https://assetstore.unity.com/packages/tools/integration/vive-input-utility-64219
 [vr-image]: https://img.shields.io/badge/Application-PC--VR-blue.svg
@@ -185,6 +185,9 @@ Folgende Komponenten oder Funktionen könnten in künftigen Projekten umgesetzt 
 
 ## Versioning
 * 1.0: Veröffentlichung
+* 1.1: Bugfixes; Update asserts and unity to 2018.04.13f
+
+
 ## Authors
    Alea Ilona Sauer – [GitHub Profil](https://github.com/saalea)<br/>
    Eric Gustav Werner – [GitHub Profil](https://github.com/Gruschtel)
