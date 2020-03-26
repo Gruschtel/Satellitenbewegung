@@ -51,8 +51,9 @@ Diese Anwendung beinhaltet eine einfache Simulation zur Darstellung von Satellit
 <img src="https://user-images.githubusercontent.com/24352711/61186185-b37f9700-a662-11e9-8f89-933c72b13538.png" alt="Szene 2" /><br>Abbildung 2
 
 Die Anwendung wurde im Rahmen der Vorlesung Augmented und Virtual Reality (AVR) des Masters Studiengangs Informatik an der Hochschule Kaiserslautern - University of Applied Sciences, Campus Zweibrücken erstellt.
-
+<!--
 <img src="https://user-images.githubusercontent.com/24352711/60571868-a1554d00-9d74-11e9-9756-7f3cd473cdfe.png" alt="hs logo" width="30%"/><br>
+ -->
 https://www.hs-kl.de/<br/><br/>
 
 ## Getting Started
